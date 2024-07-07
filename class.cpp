@@ -65,7 +65,7 @@ void feature_matrix::feature_reading_data(Datamap& data)  //读取datanode的数据并
 		{
 			if (data_iterater->second.Accident[data_accidents_counter].Speed_limit != -1)
 			{
-				feature_data_map["Speed_limit"][data_iterater->second.Accident[data_accidents_counter].Speed_limit]++;
+				(feature_data_map["Speed_Limit"])[data_iterater->second.Accident[data_accidents_counter].Speed_limit]++;
 			}
 			if (data_iterater->second.Accident[data_accidents_counter].Road_Type != -1)
 			{

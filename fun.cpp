@@ -118,7 +118,7 @@ void Read_data(Datamap& data, std::string source_file_Vehicles, std::string sour
             tempV.Age_of_Vehicle,
             tempV.Driver_IMD_Decile,
             tempV.Driver_Home_Area_Type,
-            tempV.Vehicle_IMD_Decile)||
+            tempV.Vehicle_IMD_Decile)&&
             data_Casualties.read_row(Acc_id_C,
             tempC.Vehicle_Reference,
             tempC.Casualty_Reference,
@@ -134,7 +134,7 @@ void Read_data(Datamap& data, std::string source_file_Vehicles, std::string sour
             tempC.Pedestrian_Road_Maintenance_Worker,
             tempC.Casualty_Type,
             tempC.Casualty_Home_Area_Type,
-            tempC.Casualty_IMD_Decile)||
+            tempC.Casualty_IMD_Decile)&&
             data_Accidents.read_row(Acc_id_A,
             tempA.Location_Easting_OSGR,
             tempA.Location_Northing_OSGR,
