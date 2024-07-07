@@ -12,6 +12,6 @@ int main(void) {
 	f_matrix.initialization_feature_matrix(Training_tags);
 	f_matrix.feature_reading_data(data);
 	std::cout << "A";
-
+	f_matrix.feature_data_map["Speed_Limit"][20];
 }
 
