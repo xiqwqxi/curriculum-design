@@ -7,6 +7,6 @@
 #include<vector>
 #include"class.h"
 
-void Read_data(std::vector<Data_node>& data, std::string source_file_Vehicles, std::string source_file_Casualties, std::string source_file_Accidents, light_condition& light);
+void Read_data(Datamap& data, std::string source_file_Vehicles, std::string source_file_Casualties, std::string source_file_Accidents);
 
 #endif

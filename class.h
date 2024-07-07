@@ -95,37 +95,29 @@ public:
 
 };
 
-class Data_node { //一个数据节点（集合）
+class middleclass { //一个数据节点（集合）
 
 public:
-    Data_node();
-    ~Data_node();
-    std::string Accident_Index;
+    middleclass();
+    ~middleclass();
     std::vector<Vehicles> Vehicle;
     std::vector<Accidents> Accident;
     std::vector<Casualties> Casualty;
 
 };
 
-class light_condition
-{
+class Datamap{
 public:
-    long long daylight = 0, light_lit = 0, light_unlit = 0, no_lighting = 0, total_number = 0;
-    friend class pin_tow_articulation;
-    friend class pin_skidding_and_overturning;
-    std::string Light_condition[4] = { "daylight","light_lit","light_unlit","no_lighting" };
-    std::vector<double> light;
-    void plight();
-    void print_type(int type_number);
-    void read(Accidents temp_A);
+    std::map<std::string, middleclass> data_node_map;
 };
 
+    
 class feature_matrix
 {
 public:
-    std::map<std::string, std::map<short, int>> f_matrix;;
-    void Reading_data(std::vector<Data_node>& data);
-    void initialization(std::vector<std::string>, std::vector<std::vector<short>> num);
+    std::map<std::string, std::vector<int>> feature_data_map;;
+    void feature_reading_data(Datamap& data);
+    void initialization_feature_matrix(std::vector<std::string>);
 
 
 

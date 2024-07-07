@@ -2,15 +2,13 @@
 #include <iostream>
 #include "fun.h"
 
-void Read_data(std::vector<Data_node>& data, std::string source_file_Vehicles, std::string source_file_Casualties, std::string source_file_Accidents, light_condition& light) {
+void Read_data(Datamap& data, std::string source_file_Vehicles, std::string source_file_Casualties, std::string source_file_Accidents) {
     try {
         std::vector<std::string> file_list = { source_file_Vehicles, source_file_Casualties, source_file_Accidents };
 
-        long long a = 0;
         io::CSVReader<23> data_Vehicles(file_list[0]);
         io::CSVReader<16> data_Casualties(file_list[1]);
         io::CSVReader<32> data_Accidents(file_list[2]);
-
 
         data_Vehicles.read_header(io::ignore_extra_column,
             "Accident_Index",
@@ -92,163 +90,88 @@ void Read_data(std::vector<Data_node>& data, std::string source_file_Vehicles, s
             "LSOA_of_Accident_Location"
         );
 
-        Vehicles temp_V;
-        Casualties temp_C;
-        Accidents temp_A;
-        Data_node temp_D;
-        std::string Acc_id;
+        Vehicles tempV;
+        Casualties tempC;
+        Accidents tempA;
+        middleclass tempM;
+        std::string Acc_id_V,Acc_id_C,Acc_id_A;
 
-        while (data_Vehicles.read_row(Acc_id,
-            temp_V.Vehicle_Reference,
-            temp_V.Vehicle_Type,
-            temp_V.Towing_and_Articulation,
-            temp_V.Vehicle_Manoeuvre,
-            temp_V.Vehicle_Location_Restricted_Lane,
-            temp_V.Junction_Location,
-            temp_V.Skidding_and_Overturning,
-            temp_V.Hit_Object_in_Carriageway,
-            temp_V.Vehicle_Leaving_Carriageway,
-            temp_V.Hit_Object_off_Carriageway,
-            temp_V.fst_Point_of_Impact,
-            temp_V.Was_Vehicle_Left_Hand_Drive,
-            temp_V.Journey_Purpose_of_Driver,
-            temp_V.Sex_of_Driver,
-            temp_V.Age_of_Driver,
-            temp_V.Age_Band_of_Driver,
-            temp_V.Engine_Capacity_CC,
-            temp_V.Propulsion_Code,
-            temp_V.Age_of_Vehicle,
-            temp_V.Driver_IMD_Decile,
-            temp_V.Driver_Home_Area_Type,
-            temp_V.Vehicle_IMD_Decile))
+        while (data_Vehicles.read_row(Acc_id_V,
+            tempV.Vehicle_Reference,
+            tempV.Vehicle_Type,
+            tempV.Towing_and_Articulation,
+            tempV.Vehicle_Manoeuvre,
+            tempV.Vehicle_Location_Restricted_Lane,
+            tempV.Junction_Location,
+            tempV.Skidding_and_Overturning,
+            tempV.Hit_Object_in_Carriageway,
+            tempV.Vehicle_Leaving_Carriageway,
+            tempV.Hit_Object_off_Carriageway,
+            tempV.fst_Point_of_Impact,
+            tempV.Was_Vehicle_Left_Hand_Drive,
+            tempV.Journey_Purpose_of_Driver,
+            tempV.Sex_of_Driver,
+            tempV.Age_of_Driver,
+            tempV.Age_Band_of_Driver,
+            tempV.Engine_Capacity_CC,
+            tempV.Propulsion_Code,
+            tempV.Age_of_Vehicle,
+            tempV.Driver_IMD_Decile,
+            tempV.Driver_Home_Area_Type,
+            tempV.Vehicle_IMD_Decile)||
+            data_Casualties.read_row(Acc_id_C,
+            tempC.Vehicle_Reference,
+            tempC.Casualty_Reference,
+            tempC.Casualty_Class,
+            tempC.Sex_of_Casualty,
+            tempC.Age_of_Casualty,
+            tempC.Age_Band_of_Casualty,
+            tempC.Casualty_Severity,
+            tempC.Pedestrian_Location,
+            tempC.Pedestrian_Movement,
+            tempC.Car_Passenger,
+            tempC.Bus_or_Coach_Passenger,
+            tempC.Pedestrian_Road_Maintenance_Worker,
+            tempC.Casualty_Type,
+            tempC.Casualty_Home_Area_Type,
+            tempC.Casualty_IMD_Decile)||
+            data_Accidents.read_row(Acc_id_A,
+            tempA.Location_Easting_OSGR,
+            tempA.Location_Northing_OSGR,
+            tempA.Longitude,
+            tempA.Latitude,
+            tempA.Police_Force,
+            tempA.Accident_Severity,
+            tempA.Number_of_Vehicles,
+            tempA.Number_of_Casualties,
+            tempA.Time,
+            tempA.Day_of_Week,
+            tempA.Date,
+            tempA.Local_Authority_District,
+            tempA.Local_Authority_Highway,
+            tempA.fst_Road_Class,
+            tempA.fst_Road_Number,
+            tempA.Road_Type,
+            tempA.Speed_limit,
+            tempA.Junction_Detail,
+            tempA.Junction_Control,
+            tempA.snd_Road_Class,
+            tempA.snd_Road_Number,
+            tempA.Pedestrian_Crossing_Human_Control,
+            tempA.Pedestrian_Crossing_Physical_Facilities,
+            tempA.Light_Conditions,
+            tempA.Weather_Conditions,
+            tempA.Road_Surface_Conditions,
+            tempA.Special_Conditions_at_Site,
+            tempA.Carriageway_Hazards,
+            tempA.Urban_or_Rural_Area,
+            tempA.Did_Police_Officer_Attend_Scene_of_Accident,
+            tempA.LSOA_of_Accident_Location))
         {
-            if (temp_D.Vehicle.empty()) {
-                temp_D.Vehicle.push_back(temp_V);
-                temp_D.Accident_Index = Acc_id;
-            }
-            else {
-                if (temp_D.Accident_Index == Acc_id)
-                {
-                    temp_D.Vehicle.push_back(temp_V);
-                    temp_D.Accident_Index = Acc_id;
-                }
-                else
-                {
-                    data.push_back(temp_D);
-                    temp_D = Data_node();
-                    temp_D.Vehicle.push_back(temp_V);
-                    temp_D.Accident_Index = Acc_id;
-                }
-            }
+            data.data_node_map[Acc_id_A].Accident.push_back(tempA);
+            data.data_node_map[Acc_id_V].Vehicle.push_back(tempV);
+            data.data_node_map[Acc_id_C].Casualty.push_back(tempC);
         }
-
-        if (!temp_D.Vehicle.empty()) {
-            data.push_back(temp_D);
-            temp_D = Data_node();
-        }
-
-        while (data_Casualties.read_row(Acc_id,
-            temp_C.Vehicle_Reference,
-            temp_C.Casualty_Reference,
-            temp_C.Casualty_Class,
-            temp_C.Sex_of_Casualty,
-            temp_C.Age_of_Casualty,
-            temp_C.Age_Band_of_Casualty,
-            temp_C.Casualty_Severity,
-            temp_C.Pedestrian_Location,
-            temp_C.Pedestrian_Movement,
-            temp_C.Car_Passenger,
-            temp_C.Bus_or_Coach_Passenger,
-            temp_C.Pedestrian_Road_Maintenance_Worker,
-            temp_C.Casualty_Type,
-            temp_C.Casualty_Home_Area_Type,
-            temp_C.Casualty_IMD_Decile))
-        {
-            if (temp_D.Casualty.empty()) {
-                temp_D.Casualty.push_back(temp_C);
-                temp_D.Accident_Index = Acc_id;
-            }
-            else {
-                if (temp_D.Accident_Index == Acc_id)
-                {
-                    temp_D.Casualty.push_back(temp_C);
-                    temp_D.Accident_Index = Acc_id;
-                }
-                else
-                {
-                    data.push_back(temp_D);
-                    temp_D = Data_node();
-                    temp_D.Casualty.push_back(temp_C);
-                    temp_D.Accident_Index = Acc_id;
-                }
-            }
-        }
-
-        if (!temp_D.Casualty.empty()) {
-            data.push_back(temp_D);
-            temp_D = Data_node();
-        }
-
-
-        while (data_Accidents.read_row(Acc_id,
-            temp_A.Location_Easting_OSGR,
-            temp_A.Location_Northing_OSGR,
-            temp_A.Longitude,
-            temp_A.Latitude,
-            temp_A.Police_Force,
-            temp_A.Accident_Severity,
-            temp_A.Number_of_Vehicles,
-            temp_A.Number_of_Casualties,
-            temp_A.Time,
-            temp_A.Day_of_Week,
-            temp_A.Date,
-            temp_A.Local_Authority_District,
-            temp_A.Local_Authority_Highway,
-            temp_A.fst_Road_Class,
-            temp_A.fst_Road_Number,
-            temp_A.Road_Type,
-            temp_A.Speed_limit,
-            temp_A.Junction_Detail,
-            temp_A.Junction_Control,
-            temp_A.snd_Road_Class,
-            temp_A.snd_Road_Number,
-            temp_A.Pedestrian_Crossing_Human_Control,
-            temp_A.Pedestrian_Crossing_Physical_Facilities,
-            temp_A.Light_Conditions,
-            temp_A.Weather_Conditions,
-            temp_A.Road_Surface_Conditions,
-            temp_A.Special_Conditions_at_Site,
-            temp_A.Carriageway_Hazards,
-            temp_A.Urban_or_Rural_Area,
-            temp_A.Did_Police_Officer_Attend_Scene_of_Accident,
-            temp_A.LSOA_of_Accident_Location))
-        {
-            light.read(temp_A);
-            //std::cout << light.total_number<<std::endl;
-            if (temp_D.Accident.empty()) {
-                temp_D.Accident.push_back(temp_A);
-                temp_D.Accident_Index = Acc_id;
-            }
-            else {
-                if (temp_D.Accident_Index == Acc_id)
-                {
-                    temp_D.Accident.push_back(temp_A);
-                    temp_D.Accident_Index = Acc_id;
-                }
-                else
-                {
-                    data.push_back(temp_D);
-                    temp_D = Data_node();
-                    temp_D.Accident.push_back(temp_A);
-                    temp_D.Accident_Index = Acc_id;
-                }
-            }
-        }
-
-        if (!temp_D.Accident.empty()) {
-            data.push_back(temp_D);
-        }
-
     }
     catch (const io::error::base& err) {
         std::cerr << "CSV error: " << err.what() << std::endl;
