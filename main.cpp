@@ -12,6 +12,28 @@ int main(void) {
 	f_matrix.initialization_feature_matrix(Training_tags);
 	f_matrix.feature_reading_data(data);
 	std::cout << "A";
-	f_matrix.feature_data_map["Speed_Limit"][20];
-}
+	long light_total_number = 0;
+	light_total_number = f_matrix.feature_data_map["Light_Conditions"][1] + f_matrix.feature_data_map["Light_Conditions"][4] + f_matrix.feature_data_map["Light_Conditions"][5] + f_matrix.feature_data_map["Light_Conditions"][6] + f_matrix.feature_data_map["Light_Conditions"][7];
+	double p_light_conditions[5] = { f_matrix.feature_data_map["Light_Conditions"][1] / light_total_number,0,0,f_matrix.feature_data_map["Light_Conditions"][4] / light_total_number ,f_matrix.feature_data_map["Light_Conditions"][5] / light_total_number ,f_matrix.feature_data_map["Light_Conditions"][6] / light_total_number ,f_matrix.feature_data_map["Light_Conditions"][7] / light_total_number };
+	long weather_total_number = f_matrix.feature_data_map["Weather_Conditions"][1] + f_matrix.feature_data_map["Weather_Conditions"][2] + f_matrix.feature_data_map["Weather_Conditions"][3] + f_matrix.feature_data_map["Weather_Conditions"][4] + f_matrix.feature_data_map["Weather_Conditions"][5] + f_matrix.feature_data_map["Weather_Conditions"][6] + f_matrix.feature_data_map["Weather_Conditions"][7] + f_matrix.feature_data_map["Weather_Conditions"][8] + f_matrix.feature_data_map["Weather_Conditions"][9];
+	double p_weather_conditions[9] = { f_matrix.feature_data_map["Weather_Conditions"][1] / weather_total_number, f_matrix.feature_data_map["Weather_Conditions"][2] / weather_total_number ,f_matrix.feature_data_map["Weather_Conditions"][3] / weather_total_number ,f_matrix.feature_data_map["Weather_Conditions"][4] / weather_total_number ,f_matrix.feature_data_map["Weather_Conditions"][5] / weather_total_number ,f_matrix.feature_data_map["Weather_Conditions"][6] / weather_total_number ,f_matrix.feature_data_map["Weather_Conditions"][7] / weather_total_number ,f_matrix.feature_data_map["Weather_Conditions"][8] / weather_total_number ,f_matrix.feature_data_map["Weather_Conditions"][9] / weather_total_number };
+	long surface_total_number = f_matrix.feature_data_map["Road_Surface_Conditions"][1] + f_matrix.feature_data_map["Road_Surface_Conditions"][2] + f_matrix.feature_data_map["Road_Surface_Conditions"][3] + f_matrix.feature_data_map["Road_Surface_Conditions"][4] + f_matrix.feature_data_map["Road_Surface_Conditions"][5] + f_matrix.feature_data_map["Road_Surface_Conditions"][6] + f_matrix.feature_data_map["Road_Surface_Conditions"][7];
+	double p_surface_conditions[7] = { f_matrix.feature_data_map["Road_Surface_Conditions"][1] / surface_total_number,f_matrix.feature_data_map["Road_Surface_Conditions"][2] / surface_total_number ,f_matrix.feature_data_map["Road_Surface_Conditions"][3] / surface_total_number ,f_matrix.feature_data_map["Road_Surface_Conditions"][4] / surface_total_number ,f_matrix.feature_data_map["Road_Surface_Conditions"][5] / surface_total_number ,f_matrix.feature_data_map["Road_Surface_Conditions"][6] / surface_total_number ,f_matrix.feature_data_map["Road_Surface_Conditions"][7] / surface_total_number };
+	long speed_total_number = f_matrix.feature_data_map["Speed_Limit"][20] + f_matrix.feature_data_map["Speed_Limit"][30] + f_matrix.feature_data_map["Speed_Limit"][40] + f_matrix.feature_data_map["Speed_Limit"][50] + f_matrix.feature_data_map["Speed_Limit"][60] + f_matrix.feature_data_map["Speed_Limit"][70];
+	double p_speed_limit[6] = { f_matrix.feature_data_map["Speed_Limit"][20] / speed_total_number,f_matrix.feature_data_map["Speed_Limit"][30] / speed_total_number ,f_matrix.feature_data_map["Speed_Limit"][40] / speed_total_number ,f_matrix.feature_data_map["Speed_Limit"][50] / speed_total_number ,f_matrix.feature_data_map["Speed_Limit"][60] / speed_total_number ,f_matrix.feature_data_map["Speed_Limit"][70] / speed_total_number };
+	long road_total_number = f_matrix.feature_data_map["Road_Type"][1] + f_matrix.feature_data_map["Road_Type"][2] + f_matrix.feature_data_map["Road_Type"][3] + f_matrix.feature_data_map["Road_Type"][6] + f_matrix.feature_data_map["Road_Type"][7] + f_matrix.feature_data_map["Road_Type"][9];
+	double p_road_type[6] = { f_matrix.feature_data_map["Road_Type"][1] / road_total_number,f_matrix.feature_data_map["Road_Type"][2] / road_total_number ,f_matrix.feature_data_map["Road_Type"][3] / road_total_number ,f_matrix.feature_data_map["Road_Type"][6] / road_total_number ,f_matrix.feature_data_map["Road_Type"][7] / road_total_number ,f_matrix.feature_data_map["Road_Type"][9] / road_total_number };
+	long towing_articulation_total_number = f_matrix.feature_data_map["Towing_and_Articulation"][0] + f_matrix.feature_data_map["Towing_and_Articulation"][1] + f_matrix.feature_data_map["Towing_and_Articulation"][2] + f_matrix.feature_data_map["Towing_and_Articulation"][3] + f_matrix.feature_data_map["Towing_and_Articulation"][4] + f_matrix.feature_data_map["Towing_and_Articulation"][5];
+	double p_towing_articulation[6] = { f_matrix.feature_data_map["Towing_and_Articulation"][0] / towing_articulation_total_number,f_matrix.feature_data_map["Towing_and_Articulation"][1] / towing_articulation_total_number ,f_matrix.feature_data_map["Towing_and_Articulation"][2] / towing_articulation_total_number ,f_matrix.feature_data_map["Towing_and_Articulation"][3] / towing_articulation_total_number ,f_matrix.feature_data_map["Towing_and_Articulation"][4] / towing_articulation_total_number ,f_matrix.feature_data_map["Towing_and_Articulation"][5] / towing_articulation_total_number };
+	int light, weather, surface, speed, road;
+	std::cout << "input light condition:";
+	std::cin >> light;
+	std::cout << "input weather condition:";
+	std::cin >> weather;
+	std::cout << "input road surface condition:";
+	std::cin >> surface;
+	std::cout << "input speed limit:";
+	std::cin >> speed;
+	std::cout << "input road type:";
+	std::cin >> road;
 
