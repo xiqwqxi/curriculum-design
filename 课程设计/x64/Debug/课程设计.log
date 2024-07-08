@@ -1,0 +1,45 @@
+﻿  正在扫描源以查找模块依赖项...
+  main.cpp
+C:\Users\cj\source\repos\curriculum-design\csv.h(144,65): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\cj\source\repos\curriculum-design\csv.h(158,33): warning C4244: “return”: 从“std::streamsize”转换到“int”，可能丢失数据
+C:\Users\cj\source\repos\curriculum-design\csv.h(175,42): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\cj\source\repos\curriculum-design\main.cpp(19,84): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(19,158): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(19,229): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(19,300): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(19,371): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(21,88): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(21,163): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(21,238): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(21,313): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(21,388): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(21,463): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(21,538): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(21,613): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(21,688): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(23,93): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(23,172): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(23,252): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(23,332): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(23,412): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(23,492): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(23,572): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(25,75): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(25,141): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(25,208): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(25,275): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(25,342): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(25,409): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(27,70): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(27,132): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(27,195): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(27,258): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(27,321): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(27,384): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(29,94): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(29,185): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(29,277): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(29,369): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(29,461): warning C4838: 从“long”转换到“double”需要收缩转换
+C:\Users\cj\source\repos\curriculum-design\main.cpp(29,553): warning C4838: 从“long”转换到“double”需要收缩转换
+  课程设计.vcxproj -> C:\Users\cj\source\repos\curriculum-design\x64\Debug\课程设计.exe

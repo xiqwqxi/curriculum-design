@@ -1,4 +1,6 @@
 #include<iostream>
+#include <algorithm>
+#include <iomanip>
 #include"class.h"
 #include"fun.h"
 #include"data.h"
@@ -65,6 +67,6 @@ int main(void) {
 	sort(likelihood.begin(), likelihood.end());
 	for (int i = 0; i < 6; i++)
 	{
-		std::cout << std::fixed << std::setprecision(10) << likelihood[i] << "  ";
+		std::cout << std::fixed <<std::setprecision(10) << likelihood[i] << "  ";
 	}
 }
