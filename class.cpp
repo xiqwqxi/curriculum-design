@@ -56,11 +56,18 @@ void feature_matrix::feature_reading_data(Datamap& data)  //读取datanode的数据并
 			{
 				feature_data_map["Age_Band"][data_iterater->second.Vehicle[data_vehicles_counter].Age_Band_of_Driver]++;
 			}
+			if (data_iterater->second.Vehicle[data_vehicles_counter].Skidding_and_Overturning != -1)
+			{
+				feature_data_map["Skidding_and_Overturning"][data_iterater->second.Vehicle[data_vehicles_counter].Skidding_and_Overturning]++;
+			}
 		}
-		//for (size_t data_casualties_counter = 0; data_casualties_counter < data_iterater->second.Casualty.size(); data_casualties_counter++)
-		//{
-
-		//}
+		for (size_t data_casualties_counter = 0; data_casualties_counter < data_iterater->second.Casualty.size(); data_casualties_counter++)
+		{
+			if (data_iterater->second.Casualty[data_casualties_counter].Casualty_Severity != -1)
+			{
+				feature_data_map["Casualty_Severity"][data_iterater->second.Casualty[data_casualties_counter].Casualty_Severity]++;
+			}
+		}
 		/*2*/for (size_t data_accidents_counter = 0; data_accidents_counter < data_iterater->second.Accident.size(); data_accidents_counter++)
 		{
 			if (data_iterater->second.Accident[data_accidents_counter].Speed_limit != -1)
@@ -111,7 +118,10 @@ void feature_matrix::feature_reading_data(Datamap& data)  //读取datanode的数据并
 			{
 				feature_data_map["Pedestrian_Crossing_Physical_Facilities"][data_iterater->second.Accident[data_accidents_counter].Pedestrian_Crossing_Physical_Facilities]++;
 			}
-
+			if (data_iterater->second.Accident[data_accidents_counter].Accident_Severity != -1)
+			{
+				feature_data_map["Accident_Severity"][data_iterater->second.Accident[data_accidents_counter].Accident_Severity]++;
+			}
 		}
 	}
 }

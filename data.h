@@ -20,7 +20,10 @@ std::vector<std::string> Training_tags =
 	"Urban_or_Rural_Area",
 	"Vehicle_Type",
 	"Towing_and_Articulation",
-	"Age_Band"
+	"Age_Band",
+	"Accident_Severity",
+	"Casualty_Severity",
+	"Skidding_and_Overturning"
 };
 std::vector<std::vector<short>> Tag_num =
 {
