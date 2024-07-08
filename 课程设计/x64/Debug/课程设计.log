@@ -1,3 +1,12 @@
 ﻿  正在扫描源以查找模块依赖项...
-  LINK : 没有找到 C:\Users\cj\source\repos\curriculum-design\x64\Debug\课程设计.exe 或上一个增量链接没有生成它；正在执行完全链接
-  课程设计.vcxproj -> C:\Users\cj\source\repos\curriculum-design\x64\Debug\课程设计.exe
+  main.cpp
+C:\Users\15195\source\repos\curriculum-design\csv.h(144,65): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\15195\source\repos\curriculum-design\csv.h(158,33): warning C4244: “return”: 从“std::streamsize”转换到“int”，可能丢失数据
+C:\Users\15195\source\repos\curriculum-design\csv.h(175,42): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\15195\source\repos\curriculum-design\main.cpp(148,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15195\source\repos\curriculum-design\main.cpp(149,17): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\15195\source\repos\curriculum-design\main.cpp(157,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15195\source\repos\curriculum-design\main.cpp(158,28): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\15195\source\repos\curriculum-design\main.cpp(165,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\15195\source\repos\curriculum-design\main.cpp(166,28): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  课程设计.vcxproj -> C:\Users\15195\source\repos\curriculum-design\x64\Debug\课程设计.exe

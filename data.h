@@ -3,7 +3,7 @@
 #include<map>
 #include <string>
 
-std::string file_list[3] = { "Vehicles.csv","Casualties.csv","Accidents.csv" };
+std::string file_list[] = { "Vehicles.csv","Casualties.csv","Accidents.csv","result.txt" };
 std::vector<std::string> Training_tags =
 {
 	"Speed_Limit",
@@ -25,22 +25,9 @@ std::vector<std::string> Training_tags =
 	"Casualty_Severity",
 	"Skidding_and_Overturning"
 };
-std::vector<std::vector<short>> Tag_num =
-{
-	{20,30,40,50,60,70},
-	{1,2,3,6,7,9,12},
-	{0,1,2,3,5,6,7,8,9},
-	{0,1,2,3,4},  //J_C
-	{0,1,2},
-	{0,1,4,5,7,8},
-	{1,4,5,6,7},
-	{1,2,3,4,5,6,7,8,9},//weather
-	{1,2,3,4,5,6,7},
-	{0,1,2,3,4,5,6,7},
-	{0,1,2,3,4,5,6,7},
-	{1,2},
-	{1,2,3,4,5,8,9,10,11,16,17,18,19,20,21,22,23,90,97,98},//V_T
-	{0,1,2,3,4,5},
-	{1,2,3,4,5,6,7,8,9,10,11}//age
+std::vector<std::vector<std::string>> test_tags = {
+	{"No tow/articulation","Articulated vehicle","Double or multiple trailer","Caravan","Single trailer","Other tow"},
+	{"None","Skidded","Skidded and overturned","Jackknifed","Jackknifed and overturned","Overturned"},
+	{"Fatal","Serious","Slight"}
 };
 

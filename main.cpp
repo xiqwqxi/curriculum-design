@@ -1,7 +1,7 @@
 #include<iostream>
 #include <algorithm>
 #include <iomanip>
-#include <string>
+#include <fstream>
 #include"class.h"
 #include"fun.h"
 #include"data.h"
@@ -14,7 +14,14 @@ int main(void) {
 	feature_matrix f_matrix;
 	f_matrix.initialization_feature_matrix(Training_tags);
 	f_matrix.feature_reading_data(data);
-	std::cout << "数据读取及训练矩阵初始化完成"<<std::endl;
+	std::cout << "数据读取及训练矩阵初始化完成,开始写入文件"<<std::endl;
+	std::ofstream outFile(file_list[3]);
+	if (!outFile) {
+		std::cerr << "无法打开文件" << std::endl;
+		return 1;
+	}
+	std::streambuf* coutBuf = std::cout.rdbuf();
+	std::cout.rdbuf(outFile.rdbuf());
 	double light_total_number = 0.0;
 	light_total_number = f_matrix.feature_data_map["Light_Conditions"][1] + f_matrix.feature_data_map["Light_Conditions"][4] + f_matrix.feature_data_map["Light_Conditions"][5] + f_matrix.feature_data_map["Light_Conditions"][6] + f_matrix.feature_data_map["Light_Conditions"][7];
 	double p_light_conditions[7] = { f_matrix.feature_data_map["Light_Conditions"][1] / light_total_number,0,0,f_matrix.feature_data_map["Light_Conditions"][4] / light_total_number ,f_matrix.feature_data_map["Light_Conditions"][5] / light_total_number ,f_matrix.feature_data_map["Light_Conditions"][6] / light_total_number ,f_matrix.feature_data_map["Light_Conditions"][7] / light_total_number };
@@ -95,8 +102,10 @@ int main(void) {
 		}
 	}
 	auto data_map_it = data.data_node_map.begin();
+	int num = 0,num1 = 0,num2 = 0,num3 = 0;
 	for(size_t i = 0;i<1000;i++ )
 	{
+
 		int test_rand = rand() % 10;
 		for (auto i = 0; i < test_rand; i++)
 		{
@@ -107,15 +116,21 @@ int main(void) {
 			surface = data_map_it->second.Accident[0].Road_Surface_Conditions, 
 			speed = data_map_it->second.Accident[0].Speed_limit,
 			road_type = data_map_it->second.Accident[0].Road_Type;
-		if (light == -1||weather == -1||surface == -1||speed == -1||road_type == -1)
+		if (data_map_it->second.Accident[0].Accident_Severity == -1
+			||data_map_it->second.Vehicle[0].Skidding_and_Overturning == -1
+			||data_map_it->second.Vehicle[0].Towing_and_Articulation == -1
+			||light == -1||weather == -1
+			||surface == -1||speed == -1
+			||road_type == -1)
 		{
 		}
 		else{
+			num++;
 			std::vector<double> towing_articulation_likelihood;
 			std::vector<double> skidding_overturning_likelihood;
 			std::vector<double> accidents_severity_likelihood;
-			std::string t_a_type_name[6] = { "no_tow_and_articulation","articulated_vehicle","double_or_multiple_trailer","caravan","single_trailer","other_tow" };
-			std::string s_o_type_name[6] = { "none","skidded","skidded_overturned","jackknifed","jackknifed_overturned","overturned" };
+			std::string t_a_type_name[6] = { "No tow/articulation","Articulated vehicle","Double or multiple trailer","Caravan","Single trailer","Other tow" };
+			std::string s_o_type_name[6] = { "None","Skidded","Skidded and overturned","Jackknifed","Jackknifed and overturned","Overturned" };
 			std::string a_s_type_name[3] = { "Fatal","Serious","Slight" };
 			for (int i = 0; i < 6; i++)
 			{
@@ -132,18 +147,39 @@ int main(void) {
 			auto t_a_max_it = std::max_element(towing_articulation_likelihood.begin(), towing_articulation_likelihood.end());
 			int maxValue = *t_a_max_it;
 			int maxIndex = std::distance(towing_articulation_likelihood.begin(), t_a_max_it);
-			std::cout << "预测的结果是：" << t_a_type_name[maxIndex] << std::endl << "原数据的结果是：" << t_a_type_name[data_map_it->second.Vehicle[0].Towing_and_Articulation] << std::endl;
+			std::cout<< "数据所对应的acc_id为" <<data_map_it->first<< std::endl;
+			std::cout << "预测的结果是：" << t_a_type_name[maxIndex] << std::endl << "原数据的结果是：" << test_tags[0][data_map_it->second.Vehicle[0].Towing_and_Articulation] << std::endl;
+			if (t_a_type_name[maxIndex] == test_tags[0][data_map_it->second.Vehicle[0].Towing_and_Articulation])
+			{
+				num1++;
+			}
 			auto s_o_max_it = std::max_element(skidding_overturning_likelihood.begin(), skidding_overturning_likelihood.end());
 			maxValue = *s_o_max_it;
 			maxIndex = std::distance(skidding_overturning_likelihood.begin(), s_o_max_it);
-			std::cout << "预测的结果是：" << s_o_type_name[maxIndex] << std::endl << "原数据的结果是：" << s_o_type_name[data_map_it->second.Vehicle[0].Skidding_and_Overturning] << std::endl;
+			std::cout << "预测的结果是：" << s_o_type_name[maxIndex] << std::endl << "原数据的结果是：" << test_tags[1][data_map_it->second.Vehicle[0].Skidding_and_Overturning] << std::endl;
+			if (s_o_type_name[maxIndex] == test_tags[1][data_map_it->second.Vehicle[0].Skidding_and_Overturning])
+			{
+				num2++;
+			}
 			auto a_s_max_it = std::max_element(accidents_severity_likelihood.begin(), accidents_severity_likelihood.end());
 			maxValue = *a_s_max_it;
 			maxIndex = std::distance(accidents_severity_likelihood.begin(), a_s_max_it);
-			std::cout << "预测的结果是：" << a_s_type_name[maxIndex] << std::endl << "原数据的结果是：" << a_s_type_name[data_map_it->second.Accident[0].Accident_Severity - 1] << std::endl;
+			std::cout << "预测的结果是：" << a_s_type_name[maxIndex] << std::endl << "原数据的结果是：" << test_tags[2][data_map_it->second.Accident[0].Accident_Severity - 1 ] << std::endl<<std::endl;
+			if (a_s_type_name[maxIndex] == test_tags[2][data_map_it->second.Accident[0].Accident_Severity - 1])
+			{
+				num3++;
+			}
 		}
 	}
 
+	std::cout.rdbuf(coutBuf);
+
+	outFile.close();
+
+	std::cout << "文件写入完成。" << std::endl;
+
+	double accuracy = (double)(num1 + num2 + num3) / (double)(num * 3);
+	std::cout <<"共预测"<<num<<"条数据"<<std::endl << "预测的准确率为：" << accuracy << std::endl;
 
 	
 }

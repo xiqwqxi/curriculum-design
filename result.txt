@@ -1,0 +1,5528 @@
+数据所对应的acc_id为2019010155206
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155216
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155216
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155254
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155263
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155302
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155325
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155341
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155369
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155402
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155436
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155440
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155453
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155454
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155455
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155469
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155473
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155506
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155552
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155567
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155601
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155619
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155627
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155632
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155634
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155654
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155699
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155729
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155760
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155783
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155785
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155807
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155830
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155833
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155869
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155906
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155921
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155935
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010155953
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155960
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155973
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155982
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155983
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010155997
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156054
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156071
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156084
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156210
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156246
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156274
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156304
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156304
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156320
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156350
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156374
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156374
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156380
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156389
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156406
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156434
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156434
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156474
+预测的结果是：No tow/articulation
+原数据的结果是：Articulated vehicle
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156474
+预测的结果是：No tow/articulation
+原数据的结果是：Articulated vehicle
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156474
+预测的结果是：No tow/articulation
+原数据的结果是：Articulated vehicle
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156503
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156596
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156640
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156643
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156673
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156686
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156771
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156784
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156821
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156852
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156854
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156857
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156875
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156909
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156943
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156943
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010156969
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156988
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010156996
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157018
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157035
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157047
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157047
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157075
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157092
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157102
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157123
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157153
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157153
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157155
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157166
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157175
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157214
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157224
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157225
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157244
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157244
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157244
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157269
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157291
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157291
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157315
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157340
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157377
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157424
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157437
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157472
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157495
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157513
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157581
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157611
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157652
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157652
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157663
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157693
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157693
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157720
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157720
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157784
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157813
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157817
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157826
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157843
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157851
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157851
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157870
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157871
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157893
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157931
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157957
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157973
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010157993
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010157996
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158021
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158048
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158076
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158076
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158093
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158130
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158170
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158189
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158194
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158208
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158213
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158213
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158240
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158249
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158257
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158279
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158290
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158300
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010158300
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010158345
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158367
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158392
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158398
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010158409
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010158455
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158477
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010158488
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158508
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158522
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010158567
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158592
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158592
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158653
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158653
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158695
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158697
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158719
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158734
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158753
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010158831
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158846
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158848
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158867
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158898
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158898
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158922
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158936
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010158965
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159015
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159087
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159147
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159157
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159178
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159181
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159185
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159206
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159209
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159234
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159238
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159289
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159320
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159367
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159391
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159405
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159406
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159437
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159445
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159451
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159456
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159471
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159503
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159526
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159550
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159572
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159587
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159591
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159600
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159619
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159634
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159638
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159668
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159686
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159715
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159753
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159761
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159781
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159836
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159838
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159896
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159902
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159922
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159925
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010159943
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010159969
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160005
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160037
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160076
+预测的结果是：No tow/articulation
+原数据的结果是：Articulated vehicle
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160093
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160149
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160168
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010160227
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160238
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010160243
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010160280
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010160301
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160302
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160321
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160324
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160331
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160339
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010160344
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160357
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160372
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160378
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160404
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160423
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160424
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010160481
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160504
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160534
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160538
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010160560
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160560
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160567
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010160580
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160588
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160608
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160649
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160678
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160678
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160751
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010160774
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160779
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160819
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160852
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010160877
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160910
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160952
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160954
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160976
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010160984
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161005
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161022
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161068
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161076
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161076
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161092
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161115
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161150
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161150
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161155
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161177
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161180
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161193
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161200
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161200
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161205
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161224
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161228
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161246
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161265
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161280
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161287
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161299
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161308
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161311
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161312
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161314
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161323
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161331
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161335
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161345
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161346
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161349
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161354
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161409
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161409
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161425
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161425
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161425
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161453
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161520
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161539
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161539
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161539
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161557
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161568
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161609
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161631
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161648
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161657
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161685
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161688
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161704
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161721
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161727
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161740
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161834
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161834
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161928
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161940
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010161953
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010161960
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162004
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162046
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162100
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162119
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162139
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162156
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162233
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162242
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162242
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162308
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162328
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162329
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162357
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162357
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162364
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162374
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162374
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162390
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162394
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162395
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162401
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162435
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162435
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162435
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162467
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162472
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162472
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162473
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162476
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162517
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162545
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162572
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162631
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162631
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162658
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162724
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162777
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162805
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162852
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162859
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162872
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162872
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162904
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162934
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162934
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010162944
+预测的结果是：No tow/articulation
+原数据的结果是：Articulated vehicle
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010162983
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163055
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163082
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163100
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163142
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163143
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163166
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163232
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163257
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163266
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163283
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163302
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163329
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163369
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163386
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163413
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163418
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163442
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163459
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163499
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163507
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163512
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163527
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163534
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163546
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163594
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163608
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163642
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163660
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163665
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163666
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163698
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163711
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163711
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163735
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163753
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163835
+预测的结果是：No tow/articulation
+原数据的结果是：Articulated vehicle
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163843
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163859
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163873
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163880
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163895
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163917
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163929
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163931
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163964
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163964
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163972
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163976
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010163984
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010163996
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164009
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164027
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164042
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164048
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164065
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164070
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164077
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164097
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164118
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164177
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010164177
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010164202
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164215
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164217
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164233
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164258
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164259
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164259
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164296
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164326
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164360
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164369
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164390
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164403
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164417
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164439
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010164442
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164454
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164469
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164525
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010164563
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164607
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164628
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164642
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164654
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164656
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Fatal
+
+数据所对应的acc_id为2019010164707
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010164731
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164732
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164780
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164786
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010164798
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164805
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164809
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164839
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010164850
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010164870
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010164882
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010164936
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164953
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164973
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010164992
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165004
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165025
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165032
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165032
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165035
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165074
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165077
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165092
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165097
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165098
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165151
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165168
+预测的结果是：No tow/articulation
+原数据的结果是：Single trailer
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165190
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165197
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165201
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165216
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165226
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165237
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165259
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165261
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165273
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165287
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165301
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165329
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165350
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165372
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165378
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165409
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165429
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165463
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165472
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165484
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165484
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165532
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165552
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165552
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165556
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165571
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165581
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165584
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165607
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165607
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165616
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165621
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165652
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165652
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165698
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165711
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165726
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165757
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165761
+预测的结果是：No tow/articulation
+原数据的结果是：Single trailer
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165809
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165813
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165832
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165860
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165867
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165889
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010165892
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165918
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165940
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010165992
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166030
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166030
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166052
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166077
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166102
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166140
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166171
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166188
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166235
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166240
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166260
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166275
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166290
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166297
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166323
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166368
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166373
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166382
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166392
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166404
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166406
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166510
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166518
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166525
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166531
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166537
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166539
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166549
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166554
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166558
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166571
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166588
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166591
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166601
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166613
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166620
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166848
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166892
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166907
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166918
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166925
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166932
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166934
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166969
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166971
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010166994
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166998
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010166998
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167000
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167035
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167079
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167079
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167079
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167087
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167097
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167129
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167159
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167162
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167182
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167191
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167194
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167199
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167222
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167280
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167286
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167305
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167322
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167322
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167322
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167371
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167381
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167390
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167405
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167444
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167531
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167534
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167540
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167552
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167552
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167563
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167568
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167575
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167597
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167615
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167677
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167705
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167706
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167726
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167747
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167762
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded and overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167784
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167792
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167831
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167845
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167847
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167877
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167911
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167916
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167942
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010167953
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010167968
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168032
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010168062
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168098
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168173
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168173
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168222
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168255
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168258
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168269
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168287
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Fatal
+
+数据所对应的acc_id为2019010168287
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Fatal
+
+数据所对应的acc_id为2019010168300
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168306
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168306
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168347
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168432
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010168459
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010168511
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168521
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168549
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168582
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168603
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168621
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168621
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168638
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Skidded
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010168681
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168695
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010168711
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168711
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168713
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168738
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：Overturned
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168743
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Serious
+
+数据所对应的acc_id为2019010168787
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168817
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168861
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168880
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168961
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010168961
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010169005
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
+数据所对应的acc_id为2019010169033
+预测的结果是：No tow/articulation
+原数据的结果是：No tow/articulation
+预测的结果是：None
+原数据的结果是：None
+预测的结果是：Slight
+原数据的结果是：Slight
+
