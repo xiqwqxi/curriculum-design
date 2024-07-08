@@ -28,8 +28,14 @@ int main(void) {
 	double p_road_type[6] = { f_matrix.feature_data_map["Road_Type"][1] / road_total_number,f_matrix.feature_data_map["Road_Type"][2] / road_total_number ,f_matrix.feature_data_map["Road_Type"][3] / road_total_number ,f_matrix.feature_data_map["Road_Type"][6] / road_total_number ,f_matrix.feature_data_map["Road_Type"][7] / road_total_number ,f_matrix.feature_data_map["Road_Type"][9] / road_total_number };
 	double towing_articulation_total_number = f_matrix.feature_data_map["Towing_and_Articulation"][0] + f_matrix.feature_data_map["Towing_and_Articulation"][1] + f_matrix.feature_data_map["Towing_and_Articulation"][2] + f_matrix.feature_data_map["Towing_and_Articulation"][3] + f_matrix.feature_data_map["Towing_and_Articulation"][4] + f_matrix.feature_data_map["Towing_and_Articulation"][5];
 	double p_towing_articulation[6] = { f_matrix.feature_data_map["Towing_and_Articulation"][0] / towing_articulation_total_number,f_matrix.feature_data_map["Towing_and_Articulation"][1] / towing_articulation_total_number ,f_matrix.feature_data_map["Towing_and_Articulation"][2] / towing_articulation_total_number ,f_matrix.feature_data_map["Towing_and_Articulation"][3] / towing_articulation_total_number ,f_matrix.feature_data_map["Towing_and_Articulation"][4] / towing_articulation_total_number ,f_matrix.feature_data_map["Towing_and_Articulation"][5] / towing_articulation_total_number };
+	double skidding_overturning_total_number = f_matrix.feature_data_map["Skidding_and_Overturning"][0] + f_matrix.feature_data_map["Skidding_and_Overturning"][1] + f_matrix.feature_data_map["Skidding_and_Overturning"][2] + f_matrix.feature_data_map["Skidding_and_Overturning"][3] + f_matrix.feature_data_map["Skidding_and_Overturning"][4] + f_matrix.feature_data_map["Skidding_and_Overturning"][5];
+	double p_skidding_overturning[6] = { f_matrix.feature_data_map["Skidding_and_Overturning"][0] / skidding_overturning_total_number,f_matrix.feature_data_map["Skidding_and_Overturning"][1] / skidding_overturning_total_number ,f_matrix.feature_data_map["Skidding_and_Overturning"][2] / skidding_overturning_total_number ,f_matrix.feature_data_map["Skidding_and_Overturning"][3] / skidding_overturning_total_number ,f_matrix.feature_data_map["Skidding_and_Overturning"][4] / skidding_overturning_total_number ,f_matrix.feature_data_map["Skidding_and_Overturning"][5] / skidding_overturning_total_number };
+	double accidents_severity_total_number = f_matrix.feature_data_map["Accident_Severity"][1] + f_matrix.feature_data_map["Accident_Severity"][2] + f_matrix.feature_data_map["Accident_Severity"][3];
+	double p_accidents_severity[3] = { f_matrix.feature_data_map["Accident_Severity"][1] / accidents_severity_total_number,f_matrix.feature_data_map["Accident_Severity"][2] / accidents_severity_total_number,f_matrix.feature_data_map["Accident_Severity"][3] / accidents_severity_total_number };
+	double p_Accidents_severity[9][7][6][7][6][3];
 	double p_tow_articulation[9][7][6][7][6][6];
-	for (int wth = 0; wth < 9; wth++)
+	double p_skid_overturn[9][7][6][7][6][6];
+	for (int wth = 0; wth < 9; wth++)	
 	{
 		for (int sf = 0; sf < 7; sf++)
 		{
@@ -49,6 +55,45 @@ int main(void) {
 			}
 		}
 	}
+	for (int wth = 0; wth < 9; wth++)
+	{
+		for (int sf = 0; sf < 7; sf++)
+		{
+			for (int rd = 0; rd < 6; rd++)
+			{
+				for (int lt = 0; lt < 7; lt++)
+				{
+					for (int spd = 0; spd < 6; spd++)
+					{
+						for (int s_o = 0; s_o < 6; s_o++)
+						{
+							p_skid_overturn[wth][sf][rd][lt][spd][s_o] = p_weather_conditions[wth] * p_surface_conditions[sf] * p_road_type[rd] * p_light_conditions[lt] * p_speed_limit[spd] * p_skidding_overturning[s_o];
+
+						}
+					}
+				}
+			}
+		}
+	}
+	for (int wth = 0; wth < 9; wth++)
+	{
+		for (int sf = 0; sf < 7; sf++)
+		{
+			for (int rd = 0; rd < 6; rd++)
+			{
+				for (int lt = 0; lt < 7; lt++)
+				{
+					for (int spd = 0; spd < 6; spd++)
+					{
+						for (int a_s = 0; a_s<3;a_s++)
+						{
+							p_Accidents_severity[wth][sf][rd][lt][spd][a_s] = p_weather_conditions[wth] * p_surface_conditions[sf] * p_road_type[rd] * p_light_conditions[lt] * p_speed_limit[spd] * p_accidents_severity[a_s];
+						}
+					}
+				}
+			}
+		}
+	}
 	int light = 0, weather = 0, surface = 0, speed = 0, road = 0;
 	std::cout << "input light condition:";
 	std::cin >> light;
@@ -60,16 +105,36 @@ int main(void) {
 	std::cin >> speed;
 	std::cout << "input road type:";
 	std::cin >> road;
-	std::vector<double> likelihood;
-	std::string type_name[6] = { "no_tow_and_articulation","articulated_vehicle","double_or_multiple_trailer","caravan","single_trailer","other_tow" };
+	std::vector<double> towing_articulation_likelihood;
+	std::vector<double> skidding_overturning_likelihood;
+	std::vector<double> accidents_severity_likelihood;
+	std::string t_a_type_name[6] = { "no_tow_and_articulation","articulated_vehicle","double_or_multiple_trailer","caravan","single_trailer","other_tow" };
+	std::string s_o_type_name[6] = { "none","skidded","skidded_overturned","jackknifed","jackknifed_overturned","overturned" };
+	std::string a_s_type_name[3] = { "Fatal","Serious","Slight" };
 	for (int i = 0; i < 6; i++)
 	{
-		likelihood.push_back(p_tow_articulation[weather - 1][surface - 1][road - 1][light - 1][(speed / 10) - 2][i]);
+		towing_articulation_likelihood.push_back(p_tow_articulation[weather - 1][surface - 1][road - 1][light - 1][(speed / 10) - 2][i]);
 	}
-	auto max_it = std::max_element(likelihood.begin(), likelihood.end());
-	int maxValue = *max_it;
-	int maxIndex = std::distance(likelihood.begin(), max_it);
-	std::cout << type_name[maxIndex] << std::endl;
+	for (int i = 0; i < 6; i++)
+	{
+		skidding_overturning_likelihood.push_back(p_tow_articulation[weather - 1][surface - 1][road - 1][light - 1][(speed / 10) - 2][i]);
+	}
+	for (int i = 0; i < 3; i++)
+	{
+		accidents_severity_likelihood.push_back(p_Accidents_severity[weather - 1][surface - 1][road - 1][light - 1][(speed / 10) - 2][i]);
+	}
+	auto t_a_max_it = std::max_element(towing_articulation_likelihood.begin(), towing_articulation_likelihood.end());
+	int maxValue = *t_a_max_it;
+	int maxIndex = std::distance(towing_articulation_likelihood.begin(), t_a_max_it);
+	std::cout << t_a_type_name[maxIndex] << std::endl;
+	auto s_o_max_it = std::max_element(skidding_overturning_likelihood.begin(), skidding_overturning_likelihood.end());
+	maxValue = *s_o_max_it;
+	maxIndex = std::distance(skidding_overturning_likelihood.begin(),s_o_max_it);
+	std::cout << s_o_type_name[maxIndex] << std::endl;
+	auto a_s_max_it = std::max_element(accidents_severity_likelihood.begin(), accidents_severity_likelihood.end());
+	maxValue = *a_s_max_it;
+	maxIndex = std::distance(accidents_severity_likelihood.begin(), a_s_max_it);
+	std::cout << a_s_type_name[maxIndex] << std::endl;
 	//std::cout << "最大值是: " << *max_it << std::endl;
 	//std::cout << "最大值的位置是：" << maxIndex << std::endl;
 	//sort(likelihood.begin(), likelihood.end(), std::greater<int>());
