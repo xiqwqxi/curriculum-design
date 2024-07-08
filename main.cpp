@@ -1,6 +1,7 @@
 #include<iostream>
 #include <algorithm>
 #include <iomanip>
+#include <string>
 #include"class.h"
 #include"fun.h"
 #include"data.h"
@@ -60,13 +61,20 @@ int main(void) {
 	std::cout << "input road type:";
 	std::cin >> road;
 	std::vector<double> likelihood;
+	std::string type_name[6] = { "no_tow_and_articulation","articulated_vehicle","double_or_multiple_trailer","caravan","single_trailer","other_tow" };
 	for (int i = 0; i < 6; i++)
 	{
 		likelihood.push_back(p_tow_articulation[weather - 1][surface - 1][road - 1][light - 1][(speed / 10) - 2][i]);
 	}
-	sort(likelihood.begin(), likelihood.end());
-	for (int i = 0; i < 6; i++)
+	auto max_it = std::max_element(likelihood.begin(), likelihood.end());
+	int maxValue = *max_it;
+	int maxIndex = std::distance(likelihood.begin(), max_it);
+	std::cout << type_name[maxIndex] << std::endl;
+	//std::cout << "最大值是: " << *max_it << std::endl;
+	//std::cout << "最大值的位置是：" << maxIndex << std::endl;
+	//sort(likelihood.begin(), likelihood.end(), std::greater<int>());
+	/*for (int i = 0; i < 6; i++)
 	{
 		std::cout << std::fixed <<std::setprecision(10) << likelihood[i] << "  ";
-	}
+	}*/
 }
