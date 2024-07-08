@@ -14,7 +14,7 @@ int main(void) {
 	feature_matrix f_matrix;
 	f_matrix.initialization_feature_matrix(Training_tags);
 	f_matrix.feature_reading_data(data);
-	std::cout << "A";
+	std::cout << "数据读取及训练矩阵初始化完成"<<std::endl;
 	double light_total_number = 0.0;
 	light_total_number = f_matrix.feature_data_map["Light_Conditions"][1] + f_matrix.feature_data_map["Light_Conditions"][4] + f_matrix.feature_data_map["Light_Conditions"][5] + f_matrix.feature_data_map["Light_Conditions"][6] + f_matrix.feature_data_map["Light_Conditions"][7];
 	double p_light_conditions[7] = { f_matrix.feature_data_map["Light_Conditions"][1] / light_total_number,0,0,f_matrix.feature_data_map["Light_Conditions"][4] / light_total_number ,f_matrix.feature_data_map["Light_Conditions"][5] / light_total_number ,f_matrix.feature_data_map["Light_Conditions"][6] / light_total_number ,f_matrix.feature_data_map["Light_Conditions"][7] / light_total_number };
@@ -94,52 +94,56 @@ int main(void) {
 			}
 		}
 	}
-	int light = 0, weather = 0, surface = 0, speed = 0, road = 0;
-	std::cout << "input light condition:";
-	std::cin >> light;
-	std::cout << "input weather condition:";
-	std::cin >> weather;
-	std::cout << "input road surface condition:";
-	std::cin >> surface;
-	std::cout << "input speed limit:";
-	std::cin >> speed;
-	std::cout << "input road type:";
-	std::cin >> road;
-	std::vector<double> towing_articulation_likelihood;
-	std::vector<double> skidding_overturning_likelihood;
-	std::vector<double> accidents_severity_likelihood;
-	std::string t_a_type_name[6] = { "no_tow_and_articulation","articulated_vehicle","double_or_multiple_trailer","caravan","single_trailer","other_tow" };
-	std::string s_o_type_name[6] = { "none","skidded","skidded_overturned","jackknifed","jackknifed_overturned","overturned" };
-	std::string a_s_type_name[3] = { "Fatal","Serious","Slight" };
-	for (int i = 0; i < 6; i++)
+	auto data_map_it = data.data_node_map.begin();
+	for(size_t i = 0;i<1000;i++ )
 	{
-		towing_articulation_likelihood.push_back(p_tow_articulation[weather - 1][surface - 1][road - 1][light - 1][(speed / 10) - 2][i]);
+		int test_rand = rand() % 10;
+		for (auto i = 0; i < test_rand; i++)
+		{
+			data_map_it++;
+		}
+		int light = data_map_it->second.Accident[0].Light_Conditions,
+			weather = data_map_it->second.Accident[0].Weather_Conditions,
+			surface = data_map_it->second.Accident[0].Road_Surface_Conditions, 
+			speed = data_map_it->second.Accident[0].Speed_limit,
+			road_type = data_map_it->second.Accident[0].Road_Type;
+		if (light == -1||weather == -1||surface == -1||speed == -1||road_type == -1)
+		{
+		}
+		else{
+			std::vector<double> towing_articulation_likelihood;
+			std::vector<double> skidding_overturning_likelihood;
+			std::vector<double> accidents_severity_likelihood;
+			std::string t_a_type_name[6] = { "no_tow_and_articulation","articulated_vehicle","double_or_multiple_trailer","caravan","single_trailer","other_tow" };
+			std::string s_o_type_name[6] = { "none","skidded","skidded_overturned","jackknifed","jackknifed_overturned","overturned" };
+			std::string a_s_type_name[3] = { "Fatal","Serious","Slight" };
+			for (int i = 0; i < 6; i++)
+			{
+				towing_articulation_likelihood.push_back(p_tow_articulation[weather - 1][surface - 1][road_type - 1][light - 1][(speed / 10) - 2][i]);
+			}
+			for (int i = 0; i < 6; i++)
+			{
+				skidding_overturning_likelihood.push_back(p_tow_articulation[weather - 1][surface - 1][road_type - 1][light - 1][(speed / 10) - 2][i]);
+			}
+			for (int i = 0; i < 3; i++)
+			{
+				accidents_severity_likelihood.push_back(p_Accidents_severity[weather - 1][surface - 1][road_type - 1][light - 1][(speed / 10) - 2][i]);
+			}
+			auto t_a_max_it = std::max_element(towing_articulation_likelihood.begin(), towing_articulation_likelihood.end());
+			int maxValue = *t_a_max_it;
+			int maxIndex = std::distance(towing_articulation_likelihood.begin(), t_a_max_it);
+			std::cout << "预测的结果是：" << t_a_type_name[maxIndex] << std::endl << "原数据的结果是：" << t_a_type_name[data_map_it->second.Vehicle[0].Towing_and_Articulation] << std::endl;
+			auto s_o_max_it = std::max_element(skidding_overturning_likelihood.begin(), skidding_overturning_likelihood.end());
+			maxValue = *s_o_max_it;
+			maxIndex = std::distance(skidding_overturning_likelihood.begin(), s_o_max_it);
+			std::cout << "预测的结果是：" << s_o_type_name[maxIndex] << std::endl << "原数据的结果是：" << s_o_type_name[data_map_it->second.Vehicle[0].Skidding_and_Overturning] << std::endl;
+			auto a_s_max_it = std::max_element(accidents_severity_likelihood.begin(), accidents_severity_likelihood.end());
+			maxValue = *a_s_max_it;
+			maxIndex = std::distance(accidents_severity_likelihood.begin(), a_s_max_it);
+			std::cout << "预测的结果是：" << a_s_type_name[maxIndex] << std::endl << "原数据的结果是：" << a_s_type_name[data_map_it->second.Accident[0].Accident_Severity - 1] << std::endl;
+		}
 	}
-	for (int i = 0; i < 6; i++)
-	{
-		skidding_overturning_likelihood.push_back(p_tow_articulation[weather - 1][surface - 1][road - 1][light - 1][(speed / 10) - 2][i]);
-	}
-	for (int i = 0; i < 3; i++)
-	{
-		accidents_severity_likelihood.push_back(p_Accidents_severity[weather - 1][surface - 1][road - 1][light - 1][(speed / 10) - 2][i]);
-	}
-	auto t_a_max_it = std::max_element(towing_articulation_likelihood.begin(), towing_articulation_likelihood.end());
-	int maxValue = *t_a_max_it;
-	int maxIndex = std::distance(towing_articulation_likelihood.begin(), t_a_max_it);
-	std::cout << t_a_type_name[maxIndex] << std::endl;
-	auto s_o_max_it = std::max_element(skidding_overturning_likelihood.begin(), skidding_overturning_likelihood.end());
-	maxValue = *s_o_max_it;
-	maxIndex = std::distance(skidding_overturning_likelihood.begin(),s_o_max_it);
-	std::cout << s_o_type_name[maxIndex] << std::endl;
-	auto a_s_max_it = std::max_element(accidents_severity_likelihood.begin(), accidents_severity_likelihood.end());
-	maxValue = *a_s_max_it;
-	maxIndex = std::distance(accidents_severity_likelihood.begin(), a_s_max_it);
-	std::cout << a_s_type_name[maxIndex] << std::endl;
-	//std::cout << "最大值是: " << *max_it << std::endl;
-	//std::cout << "最大值的位置是：" << maxIndex << std::endl;
-	//sort(likelihood.begin(), likelihood.end(), std::greater<int>());
-	/*for (int i = 0; i < 6; i++)
-	{
-		std::cout << std::fixed <<std::setprecision(10) << likelihood[i] << "  ";
-	}*/
+
+
+	
 }
