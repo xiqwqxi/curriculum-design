@@ -30,4 +30,4 @@ std::vector<std::vector<std::string>> test_tags = {
 	{"None","Skidded","Skidded and overturned","Jackknifed","Jackknifed and overturned","Overturned"},
 	{"Fatal","Serious","Slight"}
 };
-
+int test_num = 100;

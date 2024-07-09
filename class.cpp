@@ -125,3 +125,19 @@ void feature_matrix::feature_reading_data(Datamap& data)  //读取datanode的数据并
 		}
 	}
 }
+
+void Datamap::test_train(Datamap& data_test)
+{
+	for (auto data_iterater = data_node_map.begin(); data_iterater != data_node_map.end(); data_iterater)
+	{
+		if (rand()%100 <= 1)
+		{
+			data_test.data_node_map.insert(*data_iterater);
+			data_node_map.erase(data_iterater++);
+		}
+		else
+		{
+			data_iterater++;
+		}
+	}
+}

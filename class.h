@@ -109,6 +109,7 @@ public:
 class Datamap{
 public:
     std::map<std::string, middleclass> data_node_map;
+    void test_train(Datamap& data_test);
 };
 
     

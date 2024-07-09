@@ -2,6 +2,7 @@
 #include <algorithm>
 #include <iomanip>
 #include <fstream>
+#include <time.h>
 #include"class.h"
 #include"fun.h"
 #include"data.h"
@@ -9,17 +10,20 @@
 
 
 int main(void) {
-	Datamap data;
-	Read_data(data, file_list[0], file_list[1], file_list[2]);
+	srand(time(0));
+	Datamap data_train,data_test;
+	Read_data(data_train,file_list[0], file_list[1], file_list[2]);
+	data_train.test_train(data_test);
 	feature_matrix f_matrix;
 	f_matrix.initialization_feature_matrix(Training_tags);
-	f_matrix.feature_reading_data(data);
+	f_matrix.feature_reading_data(data_train);
 	std::cout << "数据读取及训练矩阵初始化完成,开始写入文件"<<std::endl;
 	std::ofstream outFile(file_list[3]);
 	if (!outFile) {
 		std::cerr << "无法打开文件" << std::endl;
 		return 1;
 	}
+	/////////////////////////////////////////
 	std::streambuf* coutBuf = std::cout.rdbuf();
 	std::cout.rdbuf(outFile.rdbuf());
 	double light_total_number = 0.0;
@@ -101,16 +105,10 @@ int main(void) {
 			}
 		}
 	}
-	auto data_map_it = data.data_node_map.begin();
+	/////////////////////////////////////////
 	int num = 0,num1 = 0,num2 = 0,num3 = 0;
-	for(size_t i = 0;i<1000;i++ )
+	for(auto data_map_it = data_test.data_node_map.begin(); data_map_it != data_test.data_node_map.end(); data_map_it++ )
 	{
-
-		int test_rand = rand() % 10;
-		for (auto i = 0; i < test_rand; i++)
-		{
-			data_map_it++;
-		}
 		int light = data_map_it->second.Accident[0].Light_Conditions,
 			weather = data_map_it->second.Accident[0].Weather_Conditions,
 			surface = data_map_it->second.Accident[0].Road_Surface_Conditions, 
@@ -181,5 +179,4 @@ int main(void) {
 	double accuracy = (double)(num1 + num2 + num3) / (double)(num * 3);
 	std::cout <<"共预测"<<num<<"条数据"<<std::endl << "预测的准确率为：" << accuracy << std::endl;
 
-	
 }

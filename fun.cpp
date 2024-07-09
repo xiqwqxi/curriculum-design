@@ -2,7 +2,7 @@
 #include <iostream>
 #include "fun.h"
 
-void Read_data(Datamap& data, std::string source_file_Vehicles, std::string source_file_Casualties, std::string source_file_Accidents) {
+void Read_data(Datamap& data_train,std::string source_file_Vehicles, std::string source_file_Casualties, std::string source_file_Accidents) {
     try {
         std::vector<std::string> file_list = { source_file_Vehicles, source_file_Casualties, source_file_Accidents };
 
@@ -168,9 +168,9 @@ void Read_data(Datamap& data, std::string source_file_Vehicles, std::string sour
             tempA.Did_Police_Officer_Attend_Scene_of_Accident,
             tempA.LSOA_of_Accident_Location))
         {
-            data.data_node_map[Acc_id_A].Accident.push_back(tempA);
-            data.data_node_map[Acc_id_V].Vehicle.push_back(tempV);
-            data.data_node_map[Acc_id_C].Casualty.push_back(tempC);
+            data_train.data_node_map[Acc_id_A].Accident.push_back(tempA);
+            data_train.data_node_map[Acc_id_V].Vehicle.push_back(tempV);
+            data_train.data_node_map[Acc_id_C].Casualty.push_back(tempC);
         }
     }
     catch (const io::error::base& err) {
